@@ -1,5 +1,5 @@
-# cs3_open_source_research
-Open Source Research of the NSF-Funded Center for Smart Streetscapes (CS3)
+# Open Source Research of CS3
+This page highlights the open source research conducted at the NSF-Funded Center for Smart Streetscapes (CS3).
 
 ## Research Projects
 
