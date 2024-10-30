@@ -3,6 +3,12 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 ## Research Projects
 
+### DPack
+
+Paper: https://symbioticlab.org/publications/files/dpack:eurosys25/dpack-eurosys25.pdf 
+
+Repository: https://github.com/columbia/dpack 
+
 ### Generative Camera Dolly
 
 Project Page: https://gcd.cs.columbia.edu/ 
