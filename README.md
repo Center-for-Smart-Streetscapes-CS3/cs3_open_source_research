@@ -17,6 +17,14 @@ Paper: https://gcd.cs.columbia.edu/GCD_v4.pdf
 
 Repository: https://github.com/basilevh/gcd
 
+### TeD-SPAD: Temporal Distinctiveness for Self-supervised Privacy-preservation for video Anomaly Detection
+
+Project Page: https://joefioresi718.github.io/TeD-SPAD_webpage/
+
+Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Fioresi_TeD-SPAD_Temporal_Distinctiveness_for_Self-Supervised_Privacy-Preservation_for_Video_Anomaly_Detection_ICCV_2023_paper.html 
+
+Repository: https://github.com/UCF-CRCV/TeD-SPAD
+
 ### M3Act
 
  Project Page: https://cjerry1243.github.io/M3Act/ 
