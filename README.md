@@ -3,6 +3,12 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 ## Research Projects
 
+### CookieMonster
+
+Paper: https://dl.acm.org/doi/pdf/10.1145/3694715.3695965
+
+Repository: https://github.com/columbia/cookiemonster
+
 ### DPack
 
 Paper: https://symbioticlab.org/publications/files/dpack:eurosys25/dpack-eurosys25.pdf 
