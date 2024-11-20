@@ -3,7 +3,7 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 ## Research Projects
 
-### CookieMonster
+### Cookie Monster
 
 Paper: https://dl.acm.org/doi/pdf/10.1145/3694715.3695965
 
