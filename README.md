@@ -1,6 +1,36 @@
 # CS3: Open Source Research Projects
 This page highlights the open source research conducted at the NSF-Funded Center for Smart Streetscapes (CS3).
 
+## Datasets
+
+### ParallelDomain Video Dataset
+
+**Download:** [Follow the Instructions](https://gcd.cs.columbia.edu/#datasets)
+
+**Project Page:** https://gcd.cs.columbia.edu/ 
+
+### M3Act
+
+**Download:** [Follow the Instructions](https://github.com/cjerry1243/M3Act/tree/master/gag)
+
+### OpenMesh Dataset
+
+**Download:** https://zenodo.org/records/15268341
+
+### RSSI-based Passive Localization in the Wild, at Streetscape Scales
+
+**Download:** https://ieee-dataport.org/documents/rssi-based-passive-localization-wild-streetscape-scales
+
+### Constellation
+
+**Download:** [HuggingFace](https://huggingface.co/datasets/Center-for-Smart-Streetscapes-CS3/constellation)
+
+### Boundless
+
+**Download Drone-View Dataset:** [HuggingFace](https://huggingface.co/datasets/mehmetkeremturkcan/boundless-drone)
+
+**Download High-Altitude Dataset:** [HuggingFace](https://huggingface.co/datasets/mehmetkeremturkcan/boundless-i2x)
+
 ## Research Projects
 
 ### Cookie Monster
@@ -92,21 +122,4 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 **Repository:** https://github.com/zk2172-columbia/boundless
 
-## Datasets
-
-### Kubric-4D Video Dataset
-
-Download: [Follow the Instructions](https://gcd.cs.columbia.edu/#datasets)
-
-### ParallelDomain Video Dataset
-
-Download: [Follow the Instructions](https://gcd.cs.columbia.edu/#datasets)
-
-### M3Act
-
-Download: [Follow the Instructions](https://github.com/cjerry1243/M3Act/tree/master/gag)
-
-### Constellation
-
-Download: [HuggingFace](https://huggingface.co/datasets/Center-for-Smart-Streetscapes-CS3/constellation)
 
