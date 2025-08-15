@@ -5,6 +5,11 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 ### ParallelDomain Video Dataset
 
+<p align="center">
+  <img src="assets/paralleldomain.png" width="800" alt="ParallelDomain Video Dataset">
+</p>
+
+
 **Download:** [Follow the Instructions](https://gcd.cs.columbia.edu/#datasets)
 
 **Project Page:** https://gcd.cs.columbia.edu/ 
