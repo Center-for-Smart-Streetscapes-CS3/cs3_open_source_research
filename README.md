@@ -158,4 +158,26 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 **Repository:** https://github.com/zk2172-columbia/boundless
 
+### CASIM: Composite Aware Semantic Injection for Text to Motion Generation
+
+<p align="center">
+  <img src="assets/casim.png" width="600" alt="CASIM">
+</p>
+
+**Project Page:** https://cjerry1243.github.io/casim_t2m/
+
+**Paper:** https://arxiv.org/abs/2502.02063
+
+**Repository:** https://github.com/cjerry1243/casim_t2m
+
+
+### Pedestrian Crossing Direction Prediction at Intersections for Pedestrian Safety
+
+<p align="center">
+  <img src="assets/CrossingDirectionPrediction.png" width="600" alt="Crossing Direction Prediction">
+</p>
+
+**Paper:** https://ieeexplore.ieee.org/document/11016106
+
+**Repository:** hhttps://github.com/Kimyounggun99/CrossingDirectionPrediction
 
