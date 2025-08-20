@@ -179,5 +179,5 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 **Paper:** https://ieeexplore.ieee.org/document/11016106
 
-**Repository:** hhttps://github.com/Kimyounggun99/CrossingDirectionPrediction
+**Repository:** https://github.com/Kimyounggun99/CrossingDirectionPrediction
 
