@@ -6,7 +6,7 @@ This page highlights the open source research conducted at the NSF-Funded Center
 ### RSSI-based Passive Localization in the Wild, at Streetscape Scales
 
 <p align="center">
-  <img src="assets/rssi.png" width="600" alt="RSSI-based Passive Localization in the Wild, at Streetscape Scales">
+  <img src="assets/rssi.jpg" width="600" alt="RSSI-based Passive Localization in the Wild, at Streetscape Scales">
 </p>
 
 **Download:** https://ieee-dataport.org/documents/rssi-based-passive-localization-wild-streetscape-scales
