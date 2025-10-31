@@ -138,6 +138,16 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 **Repository:** https://github.com/I-SENSE/mobloc-paper
 
+### SOD-YOLOv8
+<p align="center">
+  <img src="assets/sodyolov8.png" width="500" alt="Cookie Monster">
+</p>
+
+**Paper:** https://dl.acm.org/doi/pdf/10.1145/3694715.3695965
+
+**Repository:** https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images
+
+
 ### Constellation
 <p align="center">
   <img src="assets/constellation.png" width="600" alt="Constellation">
