@@ -140,7 +140,7 @@ This page highlights the open source research conducted at the NSF-Funded Center
 
 ### SOD-YOLOv8
 <p align="center">
-  <img src="assets/sodyolov8.png" width="500" alt="Cookie Monster">
+  <img src="assets/sodyolov8.png" width="500" alt="SOD-YOLOv8">
 </p>
 
 **Paper:** https://dl.acm.org/doi/pdf/10.1145/3694715.3695965
